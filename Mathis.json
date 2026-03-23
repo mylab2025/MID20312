@@ -11,6 +11,12 @@
       "User": "8R17B44\\k64121947",
       "Title": "Drafting2",
       "Note": "For Checking 2nd level of entry"
+    },
+    {
+      "Timestamp": "2026-03-23T16:41:24.5491999+05:30",
+      "User": "8R17B44\\k64121947",
+      "Title": "Drafting3",
+      "Note": "To check tree-like structure of the design\r\n1) Each MIDXXXXX should contain history.json which only access by admin/mater access users. User can enter and record History of particular MIDs (specifically any confidential technical and finacial datas)\r\n2) Fine turning of Search Page and additon of filtering options (ex. Search by Manufacturer, History(Item no. 1))\r\n3) Adding of \"Complete Order\"(should visible after Approval only) option in PL Manager, Once user click \"Complete Order\" the repective MID and respective quantity should reflect in respective repos.\r\n4) Adding 3 Link section for each MIDs (Source, Sink, Alternate)."
     }
   ]
 }
