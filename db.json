@@ -20,7 +20,9 @@
       "MAF4": "",
       "MAF5": "",
       "MR": "",
-      "MaterialImages": [],
+      "MaterialImages": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d6/Files_App_icon_iOS.png"
+      ],
       "GBOM_data": [
         {
           "MID": "MID2025",
@@ -29,6 +31,10 @@
         {
           "MID": "MID2026",
           "QTY": 5
+        },
+        {
+          "MID": "MID20308",
+          "QTY": 0
         }
       ]
     }
